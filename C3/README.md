@@ -1,0 +1,21 @@
+# Chapter 3
+- [Exercise 1](/C3/EX1): Product number of numbers
+    - [product_number_numbers.py](/C3/EX1/product_number_numbers.py)
+- [Exercise 2](/C3/EX2): Zeroes and sixes
+    - [zeros_and_sixes.py](/C3/EX2/zeros_and_sixes.py)
+- [Exercise 3](/C3/EX3): Age of father
+    - [age_of_father.py](/C3/EX3/age_of_father.py)
+- [Exercise 4](/C3/EX4): Higher, lower
+    - [higher_lower.py](/C3/EX4/higher_lower.py)
+- [Exercise 5](/C3/EX5): High, low, difference
+    - [hi_lo_diff.py](/C3/EX5/hi_lo_diff.py)
+- [Exercise 6](/C3/EX6): Number series
+    - [number_series.py](/C3/EX6/number_series.py)
+- [Exercise 7](/C3/EX7): Sum all numbers
+    - [sum_all_numbers.py](/C3/EX7/sum_all_numbers.py)
+- [Exercise 8](/C3/EX8): Check end
+    - [check_end.py](/C3/EX8/check_end.py)
+- [Exercise 9](/C3/EX9): Double for loop
+    - [double_for.py](/C3/EX9/double_for.py)
+- [Exercise 10](/C3/EX10): Calculate membership fee
+    - [calculate_member_fee.py](/C3/EX10/calculate_member_fee.py)
