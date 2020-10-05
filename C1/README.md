@@ -1,0 +1,21 @@
+# Chapter 1
+- [Exercise 1](/C1/EX1): Address labels
+    - [address_label.py](/C1/EX1/address_label.py)
+- [Exercise 2](/C1/EX2): Votes
+    - [votes.py](/C1/EX2/votes.py)
+- [Exercise 3](/C1/EX3): Three digits
+    - [three_digit.py](/C1/EX3/three_digit.py)
+- [Exercise 4](/C1/EX4): Switch names in memory
+    - [switch_name.py](/C1/EX4/switch_name.py)
+- [Exercise 5](/C1/EX5): Currency exchange
+    - [currency_exchange.py](/C1/EX5/currency_exchange.py)
+- [Exercise 6](/C1/EX6): String repeat
+    - [string_repeat.py](/C1/EX6/string_repeat.py)
+- [Exercise 7](/C1/EX7): Operators
+    - [operators.py](/C1/EX7/operators.py)
+- [Exercise 8](/C1/EX8): Alarm time calculator
+    - [alarm_time.py](/C1/EX8/alarm_time.py)
+- [Exercise 9](/C1/EX9): Temperature converter
+    - [temperature_conversion.py](/C1/EX9/temperature_conversion.py)
+- [Exercise 10](/C1/EX10): Power calculator
+    - [power_calculator.py](/C1/EX10/power_calculator.py)
