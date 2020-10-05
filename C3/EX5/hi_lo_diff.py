@@ -9,4 +9,8 @@ while number != 0:
     elif number > biggest_number:
         biggest_number = number
     number = int(input("Enter a number: "))
-print("The difference between the largest number", biggest_number, "and the smallest", smallest_number, "=", biggest_number-smallest_number)
+
+if smallest_number == 0 and biggest_number == 0:
+    print("No numbers entered")
+else:
+    print("The difference between the largest number", biggest_number, "and the smallest", smallest_number, "=", biggest_number-smallest_number)
