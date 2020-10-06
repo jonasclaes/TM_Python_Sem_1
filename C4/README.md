@@ -11,3 +11,5 @@
     - [triples.py](/C4/EX5/triples.py)
 - [Exercise 6](/C4/EX6): Word scramble
     - [word_scramble.py](/C4/EX6/word_scramble.py)
+- [Exercise 7](/C4/EX7): Largest text block
+    - [largest_text_block.py](/C4/EX7/largest_text_block.py)
