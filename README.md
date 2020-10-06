@@ -80,3 +80,5 @@ This repository contains all the exercises I made for Application development in
         - [word_middle.py](/C4/EX3/word_middle.py)
     - [Exercise 4](/C4/EX4): Palindrome
         - [palindrome.py](/C4/EX4/palindrome.py)
+    - [Exercise 5](/C4/EX5): Triples
+        - [triples.py](/C4/EX5/triples.py)
