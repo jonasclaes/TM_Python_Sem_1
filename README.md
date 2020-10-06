@@ -78,3 +78,5 @@ This repository contains all the exercises I made for Application development in
         - [word_number.py](/C4/EX2/word_number.py)
     - [Exercise 3](/C4/EX3): Middle 3 characters of odd word
         - [word_middle.py](/C4/EX3/word_middle.py)
+    - [Exercise 4](/C4/EX4): Palindrome
+        - [palindrome.py](/C4/EX4/palindrome.py)
