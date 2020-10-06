@@ -81,4 +81,6 @@ This repository contains all the exercises I made for Application development in
     - [Exercise 4](/C4/EX4): Palindrome
         - [palindrome.py](/C4/EX4/palindrome.py)
     - [Exercise 5](/C4/EX5): Triples
-        - [triples.py](/C4/EX5/triples.py)
+        - [triples.py](/C4/EX5/triples.py)µ
+    - [Exercise 6](/C4/EX6): Word scramble
+        - [word_scramble.py](/C4/EX6/word_scramble.py)

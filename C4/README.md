@@ -9,3 +9,5 @@
     - [palindrome.py](/C4/EX4/palindrome.py)
 - [Exercise 5](/C4/EX5): Triples
     - [triples.py](/C4/EX5/triples.py)
+- [Exercise 6](/C4/EX6): Word scramble
+    - [word_scramble.py](/C4/EX6/word_scramble.py)
