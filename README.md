@@ -71,3 +71,6 @@ This repository contains all the exercises I made for Application development in
         - [double_for.py](/C3/EX9/double_for.py)
     - [Exercise 10](/C3/EX10): Calculate membership fee
         - [calculate_member_fee.py](/C3/EX10/calculate_member_fee.py)
+- [Chapter 04](/C4)
+    - [Exercise 1](/C4/EX1): Colour
+        - [colour.py](/C4/EX1/colour.py)
