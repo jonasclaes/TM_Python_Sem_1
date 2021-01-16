@@ -9,3 +9,5 @@
     - [irish_song_shortest_line.py](/C7/EX4/irish_song_shortest_line.py)
 - [Exercise 5](/C7/EX5): Books: name -> author
     - [books_name_author.py](/C7/EX5/books_name_author.py)
+- [Exercise 6](/C7/EX6): Wish random
+    - [wish_random.py](/C7/EX6/wish_random.py)
