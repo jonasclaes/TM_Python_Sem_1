@@ -11,3 +11,5 @@
     - [books_name_author.py](/C7/EX5/books_name_author.py)
 - [Exercise 6](/C7/EX6): Wish random
     - [wish_random.py](/C7/EX6/wish_random.py)
+- [Exercise 7](/C7/EX7): Playlist
+    - [playlist.py](/C7/EX7/playlist.py)
