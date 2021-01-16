@@ -23,3 +23,6 @@
     - [line_unnumberer.py](/C7/EX11/line_unnumberer.py)
 - [Exercise 12](/C7/EX12): Tables
     - [tables.py](/C7/EX12/tables.py)
+- [Exercise 13](/C7/EX13): Hamlet
+    - [hamlet_p1.py](/C7/EX13/hamlet_p1.py)
+    - [hamlet_p2.py](/C7/EX13/hamlet_p2.py)
