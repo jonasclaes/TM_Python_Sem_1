@@ -15,3 +15,5 @@
     - [playlist.py](/C7/EX7/playlist.py)
 - [Exercise 8](/C7/EX8): Contacts
     - [contacts.py](/C7/EX8/contacts.py)
+- [Exercise 9](/C7/EX9): Weather
+    - [weather.py](/C7/EX9/weather.py)
