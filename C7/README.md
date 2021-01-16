@@ -5,3 +5,5 @@
     - [reverse_list_first_names.py](/C7/EX2/reverse_list_first_names.py)
 - [Exercise 3](/C7/EX3): 10x10 first names
     - [10x10_first_names.py](/C7/EX3/10x10_first_names.py)
+- [Exercise 4](/C7/EX4): Irish song shortest line
+    - [irish_song_shortest_line.py](/C7/EX4/irish_song_shortest_line.py)
