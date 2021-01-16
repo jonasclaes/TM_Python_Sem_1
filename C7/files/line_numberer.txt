@@ -1,0 +1,13 @@
+   1 #  Jonas Claes <r0841639@student.thomasmore.be>
+   2 from os.path import exists
+   3 
+   4 source_file_location = input("Source file location: ")
+   5 destination_file_location = input("Destination file location: ")
+   6 if exists(source_file_location):
+   7     with open(source_file_location) as input_file:
+   8         with open(destination_file_location, "w") as output_file:
+   9             lines = input_file.readlines()
+  10             count = 1
+  11             for line in lines:
+  12                 output_file.write(f"{str(count).rjust(4)} {line.rstrip()}\n")
+  13                 count += 1
