@@ -13,3 +13,5 @@
     - [wish_random.py](/C7/EX6/wish_random.py)
 - [Exercise 7](/C7/EX7): Playlist
     - [playlist.py](/C7/EX7/playlist.py)
+- [Exercise 8](/C7/EX8): Contacts
+    - [contacts.py](/C7/EX8/contacts.py)
