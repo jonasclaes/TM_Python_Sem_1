@@ -17,3 +17,5 @@
     - [contacts.py](/C7/EX8/contacts.py)
 - [Exercise 9](/C7/EX9): Weather
     - [weather.py](/C7/EX9/weather.py)
+- [Exercise 10](/C7/EX10): Line numberer
+    - [line_numberer.py](/C7/EX10/line_numberer.py)
