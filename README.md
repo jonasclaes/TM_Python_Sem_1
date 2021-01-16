@@ -86,3 +86,31 @@ This repository contains all the exercises I made for Application development in
         - [word_scramble.py](/C4/EX6/word_scramble.py)
     - [Exercise 7](/C4/EX7): Largest text block
         - [largest_text_block.py](/C4/EX7/largest_text_block.py)
+- [Chapter 07](/C7)
+    - [Exercise 1](/C7/EX1): First names
+        - [first_names.py](/C7/EX1/first_names.py)
+    - [Exercise 2](/C7/EX2): First names list reverse
+        - [reverse_list_first_names.py](/C7/EX2/reverse_list_first_names.py)
+    - [Exercise 3](/C7/EX3): 10x10 first names
+        - [10x10_first_names.py](/C7/EX3/10x10_first_names.py)
+    - [Exercise 4](/C7/EX4): Irish song shortest line
+        - [irish_song_shortest_line.py](/C7/EX4/irish_song_shortest_line.py)
+    - [Exercise 5](/C7/EX5): Books: name -> author
+        - [books_name_author.py](/C7/EX5/books_name_author.py)
+    - [Exercise 6](/C7/EX6): Wish random
+        - [wish_random.py](/C7/EX6/wish_random.py)
+    - [Exercise 7](/C7/EX7): Playlist
+        - [playlist.py](/C7/EX7/playlist.py)
+    - [Exercise 8](/C7/EX8): Contacts
+        - [contacts.py](/C7/EX8/contacts.py)
+    - [Exercise 9](/C7/EX9): Weather
+        - [weather.py](/C7/EX9/weather.py)
+    - [Exercise 10](/C7/EX10): Line numberer
+        - [line_numberer.py](/C7/EX10/line_numberer.py)
+    - [Exercise 11](/C7/EX11): Line un-numberer
+        - [line_unnumberer.py](/C7/EX11/line_unnumberer.py)
+    - [Exercise 12](/C7/EX12): Tables
+        - [tables.py](/C7/EX12/tables.py)
+    - [Exercise 13](/C7/EX13): Hamlet
+        - [hamlet_p1.py](/C7/EX13/hamlet_p1.py)
+        - [hamlet_p2.py](/C7/EX13/hamlet_p2.py)
