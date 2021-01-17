@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<jobsonline>
+    <telephone>02/4811588</telephone>
+    <email>info@jobs.com</email>
+    <jobs>
+        <company>
+            <name>Ausy</name>
+            <contact>
+                <url>www.ausy.be</url>
+                <email>cindy.morren@cx.ausy.be</email>
+            </contact>
+            <vacancies>
+                <vacancy>
+                    <position group="Car">Vehicle Safety Engineer</position>
+                </vacancy>
+                <vacancy>
+                    <position group="IT">Full Stack Java Developer</position>
+                </vacancy>
+            </vacancies>
+        </company>
+        <company>
+            <name>Tobania</name>
+            <contact>
+                <url>www.tobania.be</url>
+                <email>jobs@tobania.be</email>
+            </contact>
+            <vacancies>
+                <vacancy>
+                    <position group="HR">Business Solution Manager</position>
+                </vacancy>
+                <vacancy>
+                    <position group="IT">System Engineer</position>
+                </vacancy>
+            </vacancies>
+        </company>
+        <company>
+            <name>Experis</name>
+            <contact>
+                <url>www.experis.be</url>
+                <email>info@experis.be</email>
+            </contact>
+            <vacancies>
+                <vacancy>
+                    <position group="IT">Embedded Software Engineer Electronics</position>
+                </vacancy>
+                <vacancy aantal="3">
+                    <position group="IT">Junior J2EE Architect</position>
+                </vacancy>
+                <vacancy>
+                    <position group="IT">.NET Developer</position>
+                </vacancy>
+            </vacancies>
+        </company>
+    </jobs>
+</jobsonline>
+

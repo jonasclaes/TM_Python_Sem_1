@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<drugs>
+   <leaflet code="A1551">
+   	  <name>Ibuprofen EG</name>
+      <pharmaceutical_forms>
+         <form>tablet 400 mg</form>
+         <form>tablet 600 mg</form>
+         <form>gel 5%</form>
+      </pharmaceutical_forms>
+      <group>anti-inflammatory</group>
+      <therapeutic_indication>remedy against pain, fever and inflammation</therapeutic_indication>
+      <prescription/>
+   </leaflet>
+   <leaflet code="Z1C209">
+      <name>Dafalgan</name>
+      <pharmaceutical_forms>
+         <form>suppository 150 mg</form>
+         <form>powder for oral solution 250 mg</form>
+         <form>tablet 500 mg</form>
+      </pharmaceutical_forms>
+      <group>pain medication</group>
+      <therapeutic_indication>symptomatic treatment of fever and pain</therapeutic_indication>
+   </leaflet>
+   <leaflet code="P56145">
+      <name>Aspirine</name>
+      <pharmaceutical_forms>
+         <form>tablet 125 mg</form>
+         <form>tablet 250 mg</form>
+         <form>tablet 500 mg</form>
+      </pharmaceutical_forms>
+      <group>pain medication</group>
+      <therapeutic_indication>symptomatic treatment of fever and pain</therapeutic_indication>
+   </leaflet>
+   <leaflet code="A14965">
+      <name>Perdolan</name>
+      <pharmaceutical_forms>
+         <form>suppository 500 mg</form>
+         <form>tablet 500 mg</form>
+      </pharmaceutical_forms>
+      <group>pain medication</group>
+      <therapeutic_indication>symptomatic treatment of fever and pain</therapeutic_indication>
+   </leaflet>
+   <leaflet code="A15888">
+      <name>Actifed</name>
+      <pharmaceutical_forms>
+         <form>syrop 180 ml</form>
+      </pharmaceutical_forms>
+      <group>anti-cough</group>
+      <therapeutic_indication>reduction of swelling of the nasal mucosa in case of rhinitis</therapeutic_indication>
+      <prescription/>
+   </leaflet>
+</drugs>

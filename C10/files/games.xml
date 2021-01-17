@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <game>
+        <naam>Aan de slag met afval</naam>
+        <type>educational</type>
+    </game>
+    <game>
+        <naam>Quak</naam>
+        <type>gambling</type>
+    </game>
+    <game>
+        <naam>Rail Baron</naam>
+        <type>financial</type>
+    </game>
+        <game>
+        <naam>Abalone</naam>
+        <type>strategic</type>
+    </game>
+        <game>
+        <naam>Quadraginta</naam>
+        <type>educational</type>
+    </game>
+</games>
+

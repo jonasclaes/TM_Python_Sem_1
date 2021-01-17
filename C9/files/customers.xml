@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customers>
+    <customer discount="yes" language="NL">
+        <name>An Andriesen</name>
+        <telephone>014/230998</telephone>
+    </customer>
+    <customer discount="no" language="F">
+        <name>Bart Bols</name>
+        <telephone>016/238974</telephone>
+    </customer>
+    <customer discount="yes" language="NL">
+        <name>Carl Cerstiaens</name>
+        <telephone>014/452945</telephone>
+    </customer>
+    <customer discount="no" language="NL">
+        <name>Dirk Driesen</name>
+        <telephone>015/286413</telephone>
+    </customer>
+</customers>
+
+
