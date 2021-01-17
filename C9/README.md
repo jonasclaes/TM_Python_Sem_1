@@ -7,3 +7,6 @@
     - [vacancies.py](/C9/EX3/vacancies.py)
 - [Exercise 4](/C9/EX4): Drugs
     - [drugs.py](/C9/EX4/drugs.py)
+- [Exercise 5](/C9/EX5): Songs CSV to XML
+    - [songs.py](/C9/EX5/songs.py)
+    - [songs.xml](/C9/EX5/songs.xml) Output file
